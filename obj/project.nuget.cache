@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXiadB08GVY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dennis WS\\Weight\\VmCalibHelper\\VmCalibHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dennis WS\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Dennis WS\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,60 @@
+KERNEL32			1978-10-11 10:34:56
+KERNELBASE			1976-10-13 12:07:47
+MSVCR120			2017-05-24 15:28:52
+PlatformManager			2025-04-28 23:42:42
+PlugMonitorResource			2023-04-25 00:59:34
+clr			2025-06-18 13:21:26
+iMVS-6000PlatformSDK			2025-06-03 22:54:24
+ntdll			2021-01-11 00:52:59
+
+ExceptionCode : Unknow Exception
+
+CallStack:
+
+Frame 0: KERNELBASE.dll!  RaiseException
+
+Frame 1: clr.dll!  CorLaunchApplication
+
+Frame 2: clr.dll!  DllCanUnloadNowInternal
+
+Frame 3: iMVS-6000PlatformSDK.dll!  VisionMasterSDK::CVmDynamicInput::operator=
+
+Frame 4: iMVS-6000PlatformSDK.dll!  VisionMasterSDK::CVmDynamicInput::operator=
+
+Frame 5: iMVS-6000PlatformSDK.dll!  VisionMasterSDK::CVmDynamicInput::operator=
+
+Frame 6: PlatformManager.dll!  Unknow
+
+Frame 7: PlatformManager.dll!  PF_M_SetReportModuleDataCallback
+
+Frame 8: Unknow.dll!  Unknow
+
+Frame 9: PlatformManager.dll!  PF_M_SetReportModuleDataCallback
+
+Frame 10: Unknow.dll!  Unknow
+
+Frame 11: Unknow.dll!  Unknow
+
+Frame 12: Unknow.dll!  Unknow
+
+Frame 13: PlatformManager.dll!  PF_M_SetReportModuleDataCallback
+
+Frame 14: Unknow.dll!  Unknow
+
+Frame 15: PlatformManager.dll!  PF_M_SetReportModuleDataCallback
+
+Frame 16: Unknow.dll!  Unknow
+
+Frame 17: PlatformManager.dll!  PF_M_SetReportModuleDataCallback
+
+Frame 18: PlugMonitorResource.dll!  Unknow
+
+Frame 19: PlugMonitorResource.dll!  Unknow
+
+Frame 20: MSVCR120.dll!  beginthreadex
+
+Frame 21: MSVCR120.dll!  endthreadex
+
+Frame 22: KERNEL32.dll!  BaseThreadInitThunk
+
+Frame 23: ntdll.dll!  RtlUserThreadStart

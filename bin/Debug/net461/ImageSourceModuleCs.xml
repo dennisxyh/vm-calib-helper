@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageSourceModuleCs</name>
+    </assembly>
+    <members>
+        <member name="T:ImageSourceModuleCs.ImageSourceParam">
+            \addtogroup 图像源
+            @{
+            <summary>
+            @~chinese 图像源参数 @~english Image Source Param
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:ImageSourceModuleCs.ImageSourceParam.TriggerString" -->
+        <!-- Badly formed XML comment ignored for member "P:ImageSourceModuleCs.ImageSourceParam.TriggerFilter" -->
+        <!-- Badly formed XML comment ignored for member "P:ImageSourceModuleCs.ImageSourceParam.ExposureTimeInput" -->
+        <!-- Badly formed XML comment ignored for member "P:ImageSourceModuleCs.ImageSourceParam.GainInput" -->
+        <!-- Badly formed XML comment ignored for member "P:ImageSourceModuleCs.ImageSourceParam.ClearTriggerValue" -->
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.ImageSourceType">
+            <summary>
+            @~chinese 图像源 @~english Image Source
+            </summary>
+        </member>
+        <member name="T:ImageSourceModuleCs.ImageSourceParam.ImageSourceTypeEnum">
+            <summary>
+            @~chinese 图像源 @~english Image Source
+            </summary>
+        </member>
+        <member name="F:ImageSourceModuleCs.ImageSourceParam.ImageSourceTypeEnum.LocalImage">
+            <summary>
+            @~chinese 本地图像 @~english Local Image
+            </summary>
+        </member>
+        <member name="F:ImageSourceModuleCs.ImageSourceParam.ImageSourceTypeEnum.Camera">
+            <summary>
+            @~chinese 相机 @~english Camera
+            </summary>
+        </member>
+        <member name="F:ImageSourceModuleCs.ImageSourceParam.ImageSourceTypeEnum.SDK">
+            <summary>
+            @~chinese SDK @~english SDK
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.PixelFormat">
+            <summary>
+            @~chinese 像素格式 @~english Pixel Format
+            </summary>
+        </member>
+        <member name="T:ImageSourceModuleCs.ImageSourceParam.PixelFormatEnum">
+            <summary>
+            @~chinese 像素格式 @~english Pixel Format
+            </summary>
+        </member>
+        <member name="F:ImageSourceModuleCs.ImageSourceParam.PixelFormatEnum.MONO8">
+            <summary>
+            @~chinese MONO8 @~english MONO8
+            </summary>
+        </member>
+        <member name="F:ImageSourceModuleCs.ImageSourceParam.PixelFormatEnum.RGB24">
+            <summary>
+            @~chinese RGB24 @~english RGB24
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.Interval">
+            <summary>
+            @~chinese 取图间隔，范围：[0,1000] @~english Acquisition Rate, Range:[0,1000]
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.SolSaveImageData">
+            <summary>
+            @~chinese 方案存图 @~english Save Image
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.ShowImageName">
+            <summary>
+            @~chinese 显示图像名称 @~english Show Image Name
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.InitialSN">
+            <summary>
+            @~chinese SN初始值，范围：[0,100000] @~english Initial SN, Range:[0,100000]
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.PathCache">
+            <summary>
+            @~chinese 图片缓存，范围：[0,5] @~english PathCache, Range:[0,5]
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.OutMono8">
+            <summary>
+            @~chinese 输出Mono8 @~english Output Mono8
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.StitchEnable">
+            <summary>
+            @~chinese 拼接使能 @~english Stitch Enable
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.StitchStartHeight">
+            <summary>
+            @~chinese 起始高度，范围：[0,20000] @~english Start Height, Range:[0,20000]
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.StitchHeight">
+            <summary>
+            @~chinese 拼接高度，范围：[0,20000] @~english Stitch Height, Range:[0,20000]
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.ClearTrigger">
+            <summary>
+            @~chinese 触发清空 @~english Trigger Clear
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.AutoPlay">
+            <summary>
+            @~chinese 自动切换 @~english Auto Switch
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.AutoStop">
+            <summary>
+            @~chinese 最后一张停止 @~english The last one stops
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.TriggerStringEnable">
+            <summary>
+            @~chinese 字符触发过滤 @~english Character Trigger Filter
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.IsSubscribeFolderMode">
+            <summary>
+            @~chinese 订阅文件夹 @~english Subscribe Folder
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.SubscribeFolderPath">
+            <summary>
+            @~chinese 图像路径 @~english Image Path
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.RefreshImage">
+            <summary>
+            @~chinese 更新缩略图 @~english Refresh Image
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.TriggerProcessRun">
+            <summary>
+            @~chinese 触发流程执行 @~english Trigger Process Run
+            </summary>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceParam.#ctor(System.UInt32)">
+            @cond
+            <summary>
+            @~chinese 构造函数 @~english Constructor
+            </summary>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceParam.NameToId(System.String)">
+            @cond
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceParam.CameraName">
+            @endcond
+            <summary>
+            @~chinese 关联相机 @~english Associated Camera
+            </summary>
+        </member>
+        <member name="T:ImageSourceModuleCs.ImageSourceResult">
+            \addtogroup 图像源
+            @{
+            <summary>
+            @~chinese 图像源结果 @~english Image Source Result
+            </summary>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceResult.#ctor">
+            @cond
+            <summary>
+            @~chinese 构造函数 @~english Constructor
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.ImageData">
+            @endcond
+            <summary>
+            @~chinese 图像 @~english ImageData
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.ImageDataMono8">
+            <summary>
+            @~chinese 灰度图像 @~english Mono8 Image
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.CurImagePath">
+            <summary>
+            @~chinese 当前图像路径 @~english Current Image Path
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.CurImageName">
+            <summary>
+            @~chinese 当前图像名称 @~english Current Image Name
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.FrameNum">
+            <summary>
+            @~chinese 帧号 @~english FrameNum
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.LostFrameCount">
+            <summary>
+            @~chinese 丢帧数 @~english LostFrameCount
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.LostPacketCount">
+            <summary>
+            @~chinese 丢包数 @~english Lost Packet Count
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.GetCameraFailCount">
+            <summary>
+            @~chinese 相机获取失败次数 @~english Times of getting cameras failed.
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceResult.SNCode">
+            <summary>
+            @~chinese SN码 @~english SN code
+            </summary>
+        </member>
+        <member name="T:ImageSourceModuleCs.ImageSourceModuleTool">
+            \addtogroup 图像源
+            @{
+            <summary>
+            @~chinese 图像源工具 @~english Image Source Tool
+            </summary>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceModuleTool.#ctor">
+            @cond
+        </member>
+        <member name="F:ImageSourceModuleCs.ImageSourceModuleTool._result">
+            @endcond
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceModuleTool.ModuResult">
+            <summary>
+            @~chinese 模块结果对象 @~english Module Result Object
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceModuleTool.ModuParams">
+            <summary>
+            @~chinese 模块参数对象 @~english Module Param Object
+            </summary>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceModuleTool.Run">
+            <summary>
+            @~chinese 模块自执行 @~english Module Self Run
+            </summary>
+        </member>
+        <member name="P:ImageSourceModuleCs.ImageSourceModuleTool.IsContainsModel">
+            @cond
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceModuleTool.SetParamValue(System.String,System.String)">
+            <summary>
+            设置参数值
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:ImageSourceModuleCs.ImageSourceModuleTool.SetImagePath(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:ImageSourceModuleCs.ImageSourceModuleTool.SetImageData(VM.PlatformSDKCS.ImageBaseData,System.Boolean)" -->
+        <!-- Badly formed XML comment ignored for member "M:ImageSourceModuleCs.ImageSourceModuleTool.SetImageDataP2P(VM.PlatformSDKCS.ImageBaseData,System.Boolean)" -->
+        <member name="M:ImageSourceModuleCs.ImageSourceModuleTool.AddInputImageByPath(System.String)">
+            <summary>
+            通过路径添加图像
+            @~english Add image by path
+            </summary>
+            <param name="strPath">图像路径</param>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceModuleTool.DeleteInputImageByPath(System.String)">
+            <summary>
+            通过路径删除图像
+            @~english Delete image by path
+            </summary>
+            <param name="strPath">图像路径</param>
+        </member>
+        <member name="M:ImageSourceModuleCs.ImageSourceModuleTool.ClearAllInputImage">
+            <summary>
+            清空所有输入图像
+            @~english Clear all image
+            </summary>
+        </member>
+        <member name="T:ImageSourceModuleCs.ImageSelectParam">
+            @cond
+        </member>
+    </members>
+</doc>

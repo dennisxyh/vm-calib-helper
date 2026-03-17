@@ -1,0 +1,720 @@
+2026-03-16 16:13:47.683 ERROR [30052] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:13:48.689 ERROR [7312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM22408ImgSrcTemp
+
+
+2026-03-16 16:13:48.689 ERROR [7312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:13:48.689 ERROR [7312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:13:48.689 ERROR [7312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:13:48.689 ERROR [7312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:13:48.689 ERROR [7312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:14:17.742 ERROR [6916] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:14:18.783 ERROR [36264] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM32836ImgSrcTemp
+
+
+2026-03-16 16:14:18.783 ERROR [36264] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:14:18.783 ERROR [36264] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:14:18.783 ERROR [36264] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:14:18.783 ERROR [36264] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:14:18.783 ERROR [36264] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:16:32.454 ERROR [36188] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:16:33.489 ERROR [29196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM5192ImgSrcTemp
+
+
+2026-03-16 16:16:33.489 ERROR [29196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:16:33.489 ERROR [29196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:16:33.489 ERROR [29196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:16:33.489 ERROR [29196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:16:33.489 ERROR [29196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:17:11.966 ERROR [14724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:17:11.978 ERROR [36552] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:17:11.983 ERROR [36552] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 16:19:39.474 ERROR [29328] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:19:40.510 ERROR [37272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM33860ImgSrcTemp
+
+
+2026-03-16 16:19:40.510 ERROR [37272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:19:40.510 ERROR [37272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:19:40.510 ERROR [37272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:19:40.510 ERROR [37272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:19:40.510 ERROR [37272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:23:45.546 ERROR [17120] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:23:46.589 ERROR [32344] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM14256ImgSrcTemp
+
+
+2026-03-16 16:23:46.589 ERROR [32344] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:23:46.589 ERROR [32344] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:23:46.589 ERROR [32344] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:23:46.589 ERROR [32344] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:23:46.589 ERROR [32344] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:25:47.237 ERROR [32816] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:25:48.279 ERROR [28796] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM12424ImgSrcTemp
+
+
+2026-03-16 16:25:48.279 ERROR [28796] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:25:48.279 ERROR [28796] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:25:48.279 ERROR [28796] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:25:48.279 ERROR [28796] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:25:48.279 ERROR [28796] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:27:54.057 ERROR [37340] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:27:55.074 ERROR [35404] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM12716ImgSrcTemp
+
+
+2026-03-16 16:27:55.074 ERROR [35404] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:27:55.074 ERROR [35404] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:27:55.074 ERROR [35404] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:27:55.074 ERROR [35404] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:27:55.074 ERROR [35404] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:28:18.704 ERROR [20092] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 16:28:18.706 ERROR [27048] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:28:18.716 ERROR [16900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:28:18.719 ERROR [16900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 16:32:21.913 ERROR [14200] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:32:22.971 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM36760ImgSrcTemp
+
+
+2026-03-16 16:32:22.971 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:32:22.971 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:32:22.971 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:32:22.971 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:32:22.972 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:33:11.217 ERROR [37340] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:33:12.250 ERROR [14680] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM31664ImgSrcTemp
+
+
+2026-03-16 16:33:12.250 ERROR [14680] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:33:12.250 ERROR [14680] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:33:12.250 ERROR [14680] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:33:12.250 ERROR [14680] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:33:12.250 ERROR [14680] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:33:47.447 ERROR [34004] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 16:33:47.447 ERROR [22176] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:33:47.451 ERROR [37072] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:33:47.453 ERROR [37072] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 16:33:47.465 ERROR [6572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:35:14.423 ERROR [3388] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:35:15.457 ERROR [6272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM26588ImgSrcTemp
+
+
+2026-03-16 16:35:15.457 ERROR [6272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:35:15.457 ERROR [6272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:35:15.457 ERROR [6272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:35:15.457 ERROR [6272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:35:15.457 ERROR [6272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:37:07.385 ERROR [35116] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:37:08.420 ERROR [20868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM28984ImgSrcTemp
+
+
+2026-03-16 16:37:08.420 ERROR [20868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:37:08.420 ERROR [20868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:37:08.420 ERROR [20868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:37:08.420 ERROR [20868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:37:08.420 ERROR [20868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:37:40.580 ERROR [21976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 16:37:40.580 ERROR [18572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:37:40.585 ERROR [35156] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:37:40.588 ERROR [35156] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 16:40:37.629 ERROR [9204] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:40:38.673 ERROR [8644] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM11996ImgSrcTemp
+
+
+2026-03-16 16:40:38.673 ERROR [8644] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:40:38.673 ERROR [8644] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:40:38.673 ERROR [8644] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:40:38.673 ERROR [8644] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:40:38.673 ERROR [8644] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:43:01.615 ERROR [37848] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:43:02.626 ERROR [22416] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM36364ImgSrcTemp
+
+
+2026-03-16 16:43:02.626 ERROR [22416] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:43:02.626 ERROR [22416] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:43:02.626 ERROR [22416] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:43:02.626 ERROR [22416] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:43:02.626 ERROR [22416] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:43:37.863 ERROR [3084] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 16:43:37.863 ERROR [21620] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:43:37.869 ERROR [37188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:43:37.873 ERROR [37188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 16:46:27.802 ERROR [37468] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:46:28.848 ERROR [2704] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM34928ImgSrcTemp
+
+
+2026-03-16 16:46:28.848 ERROR [2704] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:46:28.848 ERROR [2704] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:46:28.848 ERROR [2704] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:46:28.848 ERROR [2704] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:46:28.848 ERROR [2704] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:47:13.982 ERROR [26408] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:47:15.015 ERROR [37184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM35404ImgSrcTemp
+
+
+2026-03-16 16:47:15.015 ERROR [37184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:47:15.015 ERROR [37184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:47:15.015 ERROR [37184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:47:15.015 ERROR [37184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:47:15.015 ERROR [37184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:47:39.794 ERROR [35448] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 16:47:39.795 ERROR [32564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:47:39.806 ERROR [28764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:47:39.808 ERROR [28764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 16:51:31.388 ERROR [36784] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 16:51:32.465 ERROR [36080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM32688ImgSrcTemp
+
+
+2026-03-16 16:51:32.465 ERROR [36080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 16:51:32.465 ERROR [36080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 16:51:32.465 ERROR [36080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 16:51:32.465 ERROR [36080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 16:51:32.465 ERROR [36080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 16:51:38.594 ERROR [35240] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 16:51:38.597 ERROR [17232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 16:51:38.613 ERROR [568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 16:51:38.618 ERROR [568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 17:08:18.236 ERROR [35240] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:08:18.237 ERROR [17232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@426] local image path is empty
+
+2026-03-16 17:09:13.390 ERROR [35428] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 17:09:14.429 ERROR [34876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM31892ImgSrcTemp
+
+
+2026-03-16 17:09:14.429 ERROR [34876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 17:09:14.429 ERROR [34876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 17:09:14.429 ERROR [34876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 17:09:14.429 ERROR [34876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 17:09:14.429 ERROR [34876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 17:10:52.501 ERROR [36752] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 17:10:53.516 ERROR [37868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM31376ImgSrcTemp
+
+
+2026-03-16 17:10:53.516 ERROR [37868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 17:10:53.516 ERROR [37868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 17:10:53.516 ERROR [37868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 17:10:53.516 ERROR [37868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 17:10:53.516 ERROR [37868] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 17:11:27.818 ERROR [22060] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:11:27.834 ERROR [17120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 17:11:27.839 ERROR [17120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 17:13:10.715 ERROR [33612] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 17:13:11.765 ERROR [36916] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM9864ImgSrcTemp
+
+
+2026-03-16 17:13:11.765 ERROR [36916] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 17:13:11.765 ERROR [36916] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 17:13:11.765 ERROR [36916] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 17:13:11.765 ERROR [36916] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 17:13:11.765 ERROR [36916] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 17:15:36.708 ERROR [36620] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 17:15:37.723 ERROR [35768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM32032ImgSrcTemp
+
+
+2026-03-16 17:15:37.723 ERROR [35768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 17:15:37.723 ERROR [35768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 17:15:37.723 ERROR [35768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 17:15:37.723 ERROR [35768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 17:15:37.723 ERROR [35768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 17:17:08.868 ERROR [36576] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:17:08.881 ERROR [30340] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 17:17:08.884 ERROR [30340] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 17:21:02.544 ERROR [36576] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:21:43.463 ERROR [36576] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:22:08.410 ERROR [36576] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:22:56.470 ERROR [36576] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:30:50.393 ERROR [36576] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 17:32:07.279 ERROR [35252] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 17:32:08.288 ERROR [28568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM19512ImgSrcTemp
+
+
+2026-03-16 17:32:08.288 ERROR [28568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 17:32:08.288 ERROR [28568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 17:32:08.288 ERROR [28568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 17:32:08.288 ERROR [28568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 17:32:08.288 ERROR [28568] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 17:37:00.785 ERROR [36900] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 17:37:01.823 ERROR [19032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM22380ImgSrcTemp
+
+
+2026-03-16 17:37:01.823 ERROR [19032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 17:37:01.823 ERROR [19032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 17:37:01.823 ERROR [19032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 17:37:01.823 ERROR [19032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 17:37:01.823 ERROR [19032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 18:41:19.269 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:41:19.284 ERROR [31624] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 18:41:19.288 ERROR [31624] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 18:46:47.753 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:47:15.332 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:47:35.812 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:47:54.102 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:56:21.655 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:57:22.399 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:57:50.212 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:58:08.234 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 18:58:38.595 ERROR [3232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:01:33.013 ERROR [15040] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 19:01:34.022 ERROR [37056] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM28888ImgSrcTemp
+
+
+2026-03-16 19:01:34.022 ERROR [37056] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 19:01:34.022 ERROR [37056] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 19:01:34.022 ERROR [37056] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 19:01:34.022 ERROR [37056] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 19:01:34.022 ERROR [37056] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 19:06:16.915 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:06:16.928 ERROR [36752] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 19:06:16.932 ERROR [36752] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 19:12:55.690 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:17:10.620 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:17:25.123 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:17:55.771 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:18:08.514 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:23:36.804 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:23:59.067 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:27:53.355 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:28:23.577 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:28:45.468 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:29:23.435 ERROR [39320] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:37:07.583 ERROR [38412] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 19:37:08.593 ERROR [25148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM34520ImgSrcTemp
+
+
+2026-03-16 19:37:08.593 ERROR [25148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 19:37:08.593 ERROR [25148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 19:37:08.593 ERROR [25148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 19:37:08.593 ERROR [25148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 19:37:08.593 ERROR [25148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 19:37:33.513 ERROR [39396] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:37:33.580 ERROR [7396] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 19:37:33.586 ERROR [7396] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 19:41:10.709 ERROR [39396] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 19:41:38.895 ERROR [39396] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 20:17:05.211 ERROR [39396] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 20:18:00.691 ERROR [36608] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 20:18:01.697 ERROR [38532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM36400ImgSrcTemp
+
+
+2026-03-16 20:18:01.697 ERROR [38532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 20:18:01.697 ERROR [38532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 20:18:01.697 ERROR [38532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 20:18:01.697 ERROR [38532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 20:18:01.697 ERROR [38532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 20:36:12.650 ERROR [35912] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 20:36:13.687 ERROR [37328] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM34472ImgSrcTemp
+
+
+2026-03-16 20:36:13.687 ERROR [37328] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 20:36:13.687 ERROR [37328] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 20:36:13.687 ERROR [37328] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 20:36:13.687 ERROR [37328] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 20:36:13.687 ERROR [37328] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 21:00:02.559 ERROR [35384] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 21:00:03.603 ERROR [27472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM39172ImgSrcTemp
+
+
+2026-03-16 21:00:03.603 ERROR [27472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 21:00:03.603 ERROR [27472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 21:00:03.603 ERROR [27472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 21:00:03.603 ERROR [27472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 21:00:03.603 ERROR [27472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 21:00:36.111 ERROR [39220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 21:00:36.151 ERROR [9920] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 21:00:36.155 ERROR [9920] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 21:16:24.306 ERROR [20796] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 21:16:25.320 ERROR [29160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM31276ImgSrcTemp
+
+
+2026-03-16 21:16:25.320 ERROR [29160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 21:16:25.320 ERROR [29160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 21:16:25.320 ERROR [29160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 21:16:25.320 ERROR [29160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 21:16:25.320 ERROR [29160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 21:17:26.703 ERROR [35788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 21:17:26.732 ERROR [39364] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-16 21:17:26.736 ERROR [39364] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-16 21:17:41.153 ERROR [35788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 21:18:07.163 ERROR [35788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 21:39:52.023 ERROR [35788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 21:51:26.810 ERROR [35788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-16 21:51:27.422 ERROR [37564] [IMVSCalibBoardCalibModu] [ModuId:2] [CIMVSCalibBoardCalibModu::ProcessAlg@124] MVDSDK catch IMVDException exception! nErrCode[10103000], description[Algorithm error.]
+
+2026-03-16 21:51:27.422 ERROR [37564] [IMVSCalibBoardCalibModu] [ModuId:2] [CIMVSCalibBoardCalibModu::ProcessAlg@128] IMVSLineFindAlg_Process  return [269496320].
+
+2026-03-16 21:51:27.422 ERROR [37564] [IMVSCalibBoardCalibModu] [ModuId:2] [CIMVSCalibBoardCalibModu::Process@469] ProcessAlg return [10103000]
+
+2026-03-16 23:34:46.387 ERROR [39916] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 23:34:47.397 ERROR [38804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM40028ImgSrcTemp
+
+
+2026-03-16 23:34:47.397 ERROR [38804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 23:34:47.397 ERROR [38804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 23:34:47.397 ERROR [38804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 23:34:47.397 ERROR [38804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 23:34:47.397 ERROR [38804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 23:51:06.508 ERROR [35668] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 23:51:07.517 ERROR [17592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM32824ImgSrcTemp
+
+
+2026-03-16 23:51:07.518 ERROR [17592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 23:51:07.518 ERROR [17592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 23:51:07.518 ERROR [17592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 23:51:07.518 ERROR [17592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 23:51:07.518 ERROR [17592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 23:55:56.067 ERROR [30804] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 23:55:57.117 ERROR [39424] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM37572ImgSrcTemp
+
+
+2026-03-16 23:55:57.117 ERROR [39424] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 23:55:57.117 ERROR [39424] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 23:55:57.117 ERROR [39424] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 23:55:57.117 ERROR [39424] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 23:55:57.117 ERROR [39424] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-16 23:57:58.749 ERROR [37236] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-16 23:57:59.799 ERROR [32208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM26988ImgSrcTemp
+
+
+2026-03-16 23:57:59.799 ERROR [32208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-16 23:57:59.799 ERROR [32208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-16 23:57:59.799 ERROR [32208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-16 23:57:59.799 ERROR [32208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-16 23:57:59.799 ERROR [32208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-17 00:00:36.172 ERROR [5852] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-17 00:00:37.222 ERROR [40412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM29436ImgSrcTemp
+
+
+2026-03-17 00:00:37.222 ERROR [40412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-17 00:00:37.222 ERROR [40412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-17 00:00:37.222 ERROR [40412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-17 00:00:37.222 ERROR [40412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-17 00:00:37.222 ERROR [40412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-17 00:02:58.848 ERROR [29712] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-17 00:02:59.887 ERROR [34520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM38184ImgSrcTemp
+
+
+2026-03-17 00:02:59.887 ERROR [34520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-17 00:02:59.887 ERROR [34520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-17 00:02:59.887 ERROR [34520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-17 00:02:59.887 ERROR [34520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-17 00:02:59.887 ERROR [34520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-17 00:12:45.441 ERROR [29716] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-17 00:12:46.475 ERROR [39132] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM37676ImgSrcTemp
+
+
+2026-03-17 00:12:46.475 ERROR [39132] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-17 00:12:46.475 ERROR [39132] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-17 00:12:46.475 ERROR [39132] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-17 00:12:46.475 ERROR [39132] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-17 00:12:46.475 ERROR [39132] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-17 12:31:04.254 ERROR [480] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-17 12:31:05.262 ERROR [21792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3249] pstLoadInfo->struModuleData.pszAttachmentsDir == C:\Program Files\VisionMaster4.4.0\Applications\ImageTemp\VM37528ImgSrcTemp
+
+
+2026-03-17 12:31:05.262 ERROR [21792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2151] ClearCacheImage return [e0000302]
+
+2026-03-17 12:31:05.262 ERROR [21792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2593] Set camera id : -1
+
+2026-03-17 12:31:05.262 ERROR [21792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2028] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-17 12:31:05.262 ERROR [21792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2751] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-17 12:31:05.262 ERROR [21792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2779] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-17 13:10:02.350 ERROR [23288] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+
+2026-03-17 13:10:02.547 ERROR [16972] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1900] m_pDynamicInDataLen = 0
+
+2026-03-17 13:10:02.560 ERROR [16972] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1914] m_pDynamicOutDataLen = 0
+
+2026-03-17 13:10:08.598 ERROR [23288] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@4541] ConvertPixelType return [e0000007]
+

@@ -1,0 +1,16 @@
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\VmCalibHelper.exe.config
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\VmCalibHelper.exe
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\VmCalibHelper.pdb
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\IMVSCalibBoardCalibModuCs.dll
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\IMVSCalibBoardCalibModuCs.xml
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.csproj.AssemblyReference.cache
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.AssemblyInfoInputs.cache
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.AssemblyInfo.cs
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.csproj.CoreCompileInputs.cache
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibH.84C2B27F.Up2Date
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.exe
+C:\Users\Dennis WS\Weight\VmCalibHelper\obj\Debug\net461\VmCalibHelper.pdb
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\ImageSourceModuleCs.dll
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\VM.Xml.dll
+C:\Users\Dennis WS\Weight\VmCalibHelper\bin\Debug\net461\ImageSourceModuleCs.xml
