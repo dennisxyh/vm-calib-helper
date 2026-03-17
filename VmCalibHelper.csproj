@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net461</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <RootNamespace>VmCalibHelper</RootNamespace>
+    <AssemblyName>VmCalibHelper</AssemblyName>
+    <LangVersion>7.3</LangVersion>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="VM.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=61600122bc9264b9">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\VM.Core\v4.0_1.0.0.0__61600122bc9264b9\VM.Core.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="VM.PlatformSDKCS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c1484a72052ee3d4">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\VM.PlatformSDKCS\v4.0_1.0.0.0__c1484a72052ee3d4\VM.PlatformSDKCS.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="VMControls.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cb41614600cf774b">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\VMControls.Interface\v4.0_1.0.0.0__cb41614600cf774b\VMControls.Interface.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="IMVSCalibBoardCalibModuCs">
+      <HintPath>C:\Program Files\VisionMaster4.4.0\Development\V4.x\ComControls\Assembly\IMVSCalibBoardCalibModuCs.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageSourceModuleCs">
+      <HintPath>C:\Program Files\VisionMaster4.4.0\Development\V4.x\ComControls\Assembly\ImageSourceModuleCs.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
