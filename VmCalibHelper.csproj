@@ -14,6 +14,15 @@
     <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
   </ItemGroup>
 
+  <!-- One-off probes / smoke-test scaffolding lives under test\ and is NOT
+       part of VmCalibHelper. Excluding it here keeps `dotnet build` clean
+       without us having to move the probe files out of the repo. -->
+  <ItemGroup>
+    <Compile Remove="test\**" />
+    <None    Remove="test\**" />
+    <EmbeddedResource Remove="test\**" />
+  </ItemGroup>
+
   <ItemGroup>
     <Reference Include="VM.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=61600122bc9264b9">
       <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\VM.Core\v4.0_1.0.0.0__61600122bc9264b9\VM.Core.dll</HintPath>
@@ -32,6 +41,43 @@
     </Reference>
     <Reference Include="ImageSourceModuleCs">
       <HintPath>C:\Program Files\VisionMaster4.4.0\Development\V4.x\ComControls\Assembly\ImageSourceModuleCs.dll</HintPath>
+    </Reference>
+    <Reference Include="IMVSContourMatchModuCs">
+      <HintPath>C:\Program Files\VisionMaster4.4.0\Development\V4.x\ComControls\Assembly\IMVSContourMatchModuCs.dll</HintPath>
+    </Reference>
+    <Reference Include="IMVSFastFeatureMatchModuCs">
+      <HintPath>C:\Program Files\VisionMaster4.4.0\Development\V4.x\ComControls\Assembly\IMVSFastFeatureMatchModuCs.dll</HintPath>
+    </Reference>
+
+    <!--
+      MVDAlgorithmSDK — HikRobot's algorithm-level entry point to the same
+      "快速匹配" (Fast Feature Pat Match) engine the VM platform SDK uses, BUT
+      exposing a programmatic Train() that takes (image, ROI) at runtime.
+      The platform-SDK side (IMVSFastFeatureMatchModuTool) only loads
+      IDE-baked templates from a .sol, so we switched MATCH_QUICK to this
+      path. All four assemblies are MSIL/AnyCPU and version 4.2.1.4 – same
+      version as the GAC MVDCore.Net used by VM.PlatformSDKCS, so there is
+      no binding redirect needed. Private=false because the AssemblyResolve
+      handler in Program.cs loads them by absolute path from
+      MVDAlgorithmSDK\ReferencedAssemblies\ – we don't want to copy ~400 KB
+      of DLLs into VmCalibHelper\bin every build when the official location
+      is already on disk.
+    -->
+    <Reference Include="MVDCore.Net">
+      <HintPath>C:\Program Files (x86)\MVDAlgorithmSDK\ReferencedAssemblies\Common\MVDCore.Net.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="MVDImage.Net">
+      <HintPath>C:\Program Files (x86)\MVDAlgorithmSDK\ReferencedAssemblies\Common\MVDImage.Net.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="MVDShape.Net">
+      <HintPath>C:\Program Files (x86)\MVDAlgorithmSDK\ReferencedAssemblies\Common\MVDShape.Net.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="MVDFastFeaturePatMatch.Net">
+      <HintPath>C:\Program Files (x86)\MVDAlgorithmSDK\ReferencedAssemblies\Algorithms\MVDFastFeaturePatMatch.Net.dll</HintPath>
+      <Private>false</Private>
     </Reference>
   </ItemGroup>
 
